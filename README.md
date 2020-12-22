@@ -1,16 +1,8 @@
-# ui_design_1
+# food_ui_design
 
-A new Flutter project.
+### Random image selected from instagram and create the mobile application design demo using flutter.
 
-## Getting Started
+- Design credit : https://www.instagram.com/p/CI51R4gg7QA/?utm_source=ig_web_copy_link
+- you can find more awesome designs from "uixglow" https://www.instagram.com/uixglow/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/1.JPEG" width="300" height="500">  <img src="assets/2.JPEG" width="300" height="500"> 
